@@ -6,7 +6,7 @@ ApplicationWindow {
     visible: true
     title: qsTr("HttpMethods")
     width: 840
-    height: 150
+    height: 300
 
     Board{
         id:board
